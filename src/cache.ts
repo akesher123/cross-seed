@@ -4,7 +4,7 @@ import { appDir, createAppDir } from "./configuration.js";
 import { Decision } from "./constants.js";
 
 createAppDir();
-
+.
 export interface SearcheeEntry {
 	infoHash?: string;
 	firstSearched: number;
